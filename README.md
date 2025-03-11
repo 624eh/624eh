@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 대구과학고등학교 38기 도현호입니다
 
 <!--
 **624eh/624eh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
